@@ -9,3 +9,5 @@
 [Lab Report #3](https://ad656.github.io/cs15l-lab-report3/)
 
 [Lab Report #4](https://ad656.github.io/cs15l_labReport4/)
+
+[Lab Report #5](https://ad656.github.io/LabReport_5/)
